@@ -1,0 +1,11 @@
+This is just some sample text
+that appears on several lines. This
+is a test of the Concordance program
+to see how well it is able to pick out
+the words. As a test, he said: "is is is is is,"
+many times, over and over, until he was so
+tired he collapsed.
+
+There's more to this story; just ask the dog.
+He'd say: "Ruff, Ruff, Ruff!" Who'd ask a
+dog, anyway?
